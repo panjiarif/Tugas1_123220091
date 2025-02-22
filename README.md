@@ -1,3 +1,3 @@
-Tugas 1 - Layouting
-Prak. Teknologi Mobile IF-B
-123220091 - Panji Arif
+Tugas 1 - Layouting <br>
+Prak. Teknologi Mobile IF-B <br>
+123220091 - Panji Arif <br>
